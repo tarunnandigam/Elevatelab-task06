@@ -2,6 +2,9 @@
 
 i have deployed my one if the static website -- Coffee website ..
 
+live demo link : https://tarunnandigam.github.io/Elevatelab-task06/
+
+
 i have these simple git commonds to push them into the git
 git init
 git add .
